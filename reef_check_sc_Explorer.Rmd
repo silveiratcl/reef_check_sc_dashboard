@@ -3,19 +3,46 @@ title: "Dados do Reefcheck"
 output: 
   flexdashboard::flex_dashboard:
     orientation: rows
-    vertical_layout: fill
 ---
 
 ```{r setup, include=FALSE}
 library(flexdashboard)
+library(flexdashboard)
+library(readr)
+library(reshape2)
+library(leaflet)
+library(ggplot2)
+library(vegan)
+library(plotly)
+library(lubridate)
+library(dplyr)
+
+library(RColorBrewer)
+palette(brewer.pal(8, "Set2"))
 ```
+```{r dataread}
+
+spData<- read.csv("monito_rebio_species_2020", header=T, sep=";", dec=".")
+
+
+
+```
+
 
 Column {data-width=650}
 -----------------------------------------------------------------------
 
 ### Chart A
 
-```{r}
+```{r} 
+
+# Check how to import data from gdrive
+
+siteCoords = siteDF %>% dplyr::group_by(locality, site, strata) %>% 
+  dplyr::summarise(lng = mean(decimalLongitude, na.rm=T), 
+            lat = mean(decimalLatitude, na.rm=T))
+
+
 
 ```
 
