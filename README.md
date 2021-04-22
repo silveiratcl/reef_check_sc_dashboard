@@ -1,2 +1,9 @@
 # reef_check_sc_dashboard
-Dashboard showing data from reef check monitoring program in Santa Catarina - BR
+Dashboard showing data from reef check monitoring program in REBIO Arvoredo
+working in progress
+
+To do: 
+check the subs and species data, all names etc, done just to 2020
+
+check nomenclature according darwin core ipt...
+
