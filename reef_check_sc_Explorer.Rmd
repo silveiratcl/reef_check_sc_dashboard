@@ -22,40 +22,54 @@ palette(brewer.pal(8, "Set2"))
 ```
 ```{r dataread, eval=FALSE, include=FALSE}
 
-spData<- read.csv("monito_rebio_species_2020.csv", header=T, sep=";", dec=".")
-spData
-
+iscDF<- read.csv("monitoring_rebio_isc_2020.csv", header=T, sep=";", dec=".")
+subsDF<- read.csv("monitoring_rebio_subs_2020.csv", header=T, sep=";", dec=".")
+iscDF
+subsDF
 
 ```
 
+General Information
+======================================================================
 
-Column {data-width=650}
+Column
 -----------------------------------------------------------------------
 
-### Chart A
+### Locality: REBIO Arvoredo e Entorno
 
-```{r} 
+```{r map}
+## get lat lon
+siteCoords = iscDF %>% dplyr::group_by(site)%>% 
+  dplyr::summarise(lng = mean(lon_dd, na.rm=T), 
+            lat = mean(lat_dd, na.rm=T))
 
-# Check how to import data from gdrive
+## get total abund by site
+siteAbund = iscDF %>%  
+  dplyr::group_by(site) %>% 
+  dplyr::summarise(sumAbund = sum(abund, na.rm=T))
 
 
+## add abund and cover to coords
+siteCoords = full_join(siteCoords, siteAbund)
 
+## create a color palette
+pal <- colorFactor(palette = c('#a6cee3','#1f78b4','#b2df8a'),
+                   domain= c('DN', 'RN', 'TS' ))
 
+## make leaflet map
+leaflet(siteCoords) %>% addTiles() %>% 
+  addCircleMarkers(label = ~paste0(site), 
+                   radius = ~100 * sumAbund/(sumAbund)/4,
+                   color = ~pal(site), 
+                   fillOpacity = 0.8,
+                   stroke = F,
+                   clusterOptions = markerClusterOptions()) %>% 
+  addMiniMap(toggleDisplay = T)
 
 ```
 
-Column {data-width=350}
------------------------------------------------------------------------
 
-### Chart B
 
-```{r}
 
-```
 
-### Chart C
-
-```{r}
-
-```
 
