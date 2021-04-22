@@ -35,7 +35,7 @@ General Information
 Column
 -----------------------------------------------------------------------
 
-### Locality: REBIO Arvoredo e Entorno
+### REBIO Arvoredo e Entorno
 
 ```{r map}
 ## get lat lon
@@ -46,7 +46,9 @@ siteCoords = iscDF %>% dplyr::group_by(site)%>%
 ## get total abund by site
 siteAbund = iscDF %>%  
   dplyr::group_by(site) %>% 
-  dplyr::summarise(sumAbund = sum(abund, na.rm=T))
+  dplyr::summarise(sumAbund = sum(abund, na.rm=T),
+  richness = n_distinct(taxon)) #exclude fish trash
+
 
 
 ## add abund and cover to coords
@@ -58,7 +60,7 @@ pal <- colorFactor(palette = c('#a6cee3','#1f78b4','#b2df8a'),
 
 ## make leaflet map
 leaflet(siteCoords) %>% addTiles() %>% 
-  addCircleMarkers(label = ~paste0(site), 
+  addCircleMarkers(label = ~paste0(site,' - ', ' / N. Taxa: ', richness), 
                    radius = ~100 * sumAbund/(sumAbund)/4,
                    color = ~pal(site), 
                    fillOpacity = 0.8,
