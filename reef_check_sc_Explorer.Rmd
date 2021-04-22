@@ -20,10 +20,10 @@ library(dplyr)
 library(RColorBrewer)
 palette(brewer.pal(8, "Set2"))
 ```
-```{r dataread}
+```{r dataread, eval=FALSE, include=FALSE}
 
-spData<- read.csv("monito_rebio_species_2020", header=T, sep=";", dec=".")
-
+spData<- read.csv("monito_rebio_species_2020.csv", header=T, sep=";", dec=".")
+spData
 
 
 ```
@@ -38,9 +38,7 @@ Column {data-width=650}
 
 # Check how to import data from gdrive
 
-siteCoords = siteDF %>% dplyr::group_by(locality, site, strata) %>% 
-  dplyr::summarise(lng = mean(decimalLongitude, na.rm=T), 
-            lat = mean(decimalLatitude, na.rm=T))
+
 
 
 
