@@ -73,8 +73,8 @@ leaflet(siteCoords) %>% addTiles() %>%
 
 ```{r taxonrank}
 library(worms)
-scNames = unique(iscDF$taxon[iscDF$taxon != "Lixo_de_pesca" & iscDF$taxon !=  "Lixo_comum"] ) #excluding fishing trash
-scNames = scNames[!is.na(scNames)] #insert aphiaID to all species
+scNames = unique(iscDF$AphiaID)
+scNames = scNames[!is.na(scNames)] #excluded fishing thrash/thrash
 
 ## get taxon rank from WoRMS
 scNames.rank = wormsbyid(x = scNames, verbose = F)
