@@ -35,7 +35,7 @@ General Information
 Column
 -----------------------------------------------------------------------
 
-### Locality: REBIO Arvoredo e Entorno
+### REBIO Arvoredo e Entorno
 
 ```{r map}
 ## get lat lon
