@@ -1,56 +1,55 @@
-<<<<<<< HEAD
 ﻿data_type;site;lat_dd;lon_dd;datum;precision;date;day;month;year;position;habitat;trans_n;temp_c;depth_min;depth_max;visi_vert;visi_hor;point;subs_cover;roughness;obs
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p0;macroalga;1;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p0.5;zoantideo;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p1;turf;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p1.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p2;alga calcaria crostosa;1;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p2;alga_calcaria_crostosa;1;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p2.5;zoantideo;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p3;zoantideo;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p3.5;zoantideo;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p4;zoantideo;2;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p4.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p5;alga calcaria crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p4.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p5;alga_calcaria_crostosa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p5.5;turf;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p6;turf;1;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p6.5;turf;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p7;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p7.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p8;alga calcaria crostosa;1;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p7.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p8;alga_calcaria_crostosa;1;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p8.5;turf;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p9;turf;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p9.5;turf;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p10;zoantideo;2;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p10.5;zoantideo;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p11;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p11.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p12;alga calcaria crostosa;1;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p11.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p12;alga_calcaria_crostosa;1;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p12.5;zoantideo;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p13;zoantideo;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p13.5;zoantideo;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p14;turf;1;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p14.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p15;briozoario incrustante;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p15.5;alga calcaria crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p15;briozoario_incrustante;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p15.5;alga_calcaria_crostosa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p16;turf;1;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p16.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p17;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p17.5;alga calcaria crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p16.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p17;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p17.5;alga_calcaria_crostosa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p18;turf;1;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p18.5;turf;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p19;turf;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p19.5;gorgonia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p0;alga calcaria crostosa;1;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p0;alga_calcaria_crostosa;1;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p0.5;turf;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p1;turf;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p1.5;turf;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p2;zoantideo;1;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p2.5;zoantideo;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p3;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p3.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p4;alga calcaria crostosa;2;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p4.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p5;alga calcaria crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p3.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p4;alga_calcaria_crostosa;2;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p4.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p5;alga_calcaria_crostosa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p5.5;zoantideo;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p6;zoantideo;1;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p6.5;macroalga;NA;NA
@@ -63,9 +62,9 @@ B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_s
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p10;turf;2;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p10.5;zoantideo;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p11;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p11.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p12;alga calcaria crostosa;2;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p12.5;alga calcaria crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p11.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p12;alga_calcaria_crostosa;2;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p12.5;alga_calcaria_crostosa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p13;zoantideo;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p13.5;turf;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p14;macroalga;1;NA
@@ -88,14 +87,14 @@ B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_s
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p2.5;turf;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p3;turf;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p3.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p4;alga calcaria crostosa;2;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p4.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p5;alga calcaria crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p4;alga_calcaria_crostosa;2;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p4.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p5;alga_calcaria_crostosa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p5.5;turf;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p6;turf;1;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p6.5;hidrozoa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p7;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p7.5;alga calcaria crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p7.5;alga_calcaria_crostosa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p8;turf;0;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p8.5;turf;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p9;hidrozoa;NA;NA
@@ -118,94 +117,94 @@ B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_s
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p17.5;macroalga;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p18;macroalga;0;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p18.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p19;alga calcaria crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p19;alga_calcaria_crostosa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p19.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p0;alga calcaria crostosa;0;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p0;alga_calcaria_crostosa;0;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p0.5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p1;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p1.5;alga calcaria crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p1;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p1.5;alga_calcaria_crostosa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p2;turf;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p2.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p3;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p3.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p4;alga calcaria crostosa;0;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p2.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p3;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p3.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p4;alga_calcaria_crostosa;0;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p4.5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p5.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p6;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p6.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p7;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p7.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p8;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p8.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p9;alga calcaria crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p5.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p6;alga_calcaria_crostosa;0;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p6.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p7;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p7.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p8;alga_calcaria_crostosa;0;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p8.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p9;alga_calcaria_crostosa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p9.5;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p10;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p10.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p11;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p11.5;alga calcaria crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p10;alga_calcaria_crostosa;0;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p10.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p11;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p11.5;alga_calcaria_crostosa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p12;areia;0;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p12.5;areia;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p13;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p13.5;alga calcaria crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p13.5;alga_calcaria_crostosa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p14;zoantideo;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p14.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p15;alga calcaria crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p14.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p15;alga_calcaria_crostosa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p15.5;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p16;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p16.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p17;alga calcaria crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p16;alga_calcaria_crostosa;0;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p16.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p17;alga_calcaria_crostosa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p17.5;areia;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p18;areia;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p18.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p19;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p19.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;12;16;8;9;p0;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p0.5;alga calcaria crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p18.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p19;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p19.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;12;16;8;9;p0;alga_calcaria_crostosa;0;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p0.5;alga_calcaria_crostosa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p1;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p1.5;alga calcaria crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p1.5;alga_calcaria_crostosa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p2;areia;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p2.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p3;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p3.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p4;alga calcaria crostosa;0;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p2.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p3;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p3.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p4;alga_calcaria_crostosa;0;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p4.5;areia;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p5;areia;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p5.5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p6;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p6.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p7;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p7.5;alga calcaria crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p6;alga_calcaria_crostosa;0;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p6.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p7;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p7.5;alga_calcaria_crostosa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p8;areia;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p8.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p9;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p9.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p10;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p10.5;alga calcaria crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p8.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p9;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p9.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p10;alga_calcaria_crostosa;0;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p10.5;alga_calcaria_crostosa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p11;turf;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p11.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p12;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p12.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p13;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p13.5;alga calcaria crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p12;alga_calcaria_crostosa;0;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p12.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p13;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p13.5;alga_calcaria_crostosa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p14;areia;0;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p14.5;areia;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p15;areia;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p15.5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p16;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p16.5;alga calcaria crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p16;alga_calcaria_crostosa;0;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p16.5;alga_calcaria_crostosa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p17;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p17.5;alga calcaria crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p17.5;alga_calcaria_crostosa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p18;turf;0;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p18.5;turf;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p19;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p19.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p0;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p0.5;alga calcaria crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p19.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p0;alga_calcaria_crostosa;0;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p0.5;alga_calcaria_crostosa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p1;areia;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p1.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p2;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p2.5;alga calcaria crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p2;alga_calcaria_crostosa;0;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p2.5;alga_calcaria_crostosa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p3;turf;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p3.5;areia;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p4;areia;0;NA
@@ -227,9 +226,9 @@ B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolit
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p12;areia;0;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p12.5;turf;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p13;gorgonia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p13.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p14;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p14.5;alga calcaria crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p13.5;alga_calcaria_crostosa;NA;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p14;alga_calcaria_crostosa;0;NA
+B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p14.5;alga_calcaria_crostosa;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p15;turf;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p15.5;areia;NA;NA
 B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p16;areia;0;NA
@@ -252,98 +251,98 @@ B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolit
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p4.5;areia;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p5;turf;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p5.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p6;alga calcaria crostosa;0;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p6;alga_calcaria_crostosa;0;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p6.5;areia;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p7;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p7;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p7.5;turf;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p8;areia;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p8.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p9;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p8.5;alga_calcaria_crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p9;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p9.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p10;alga calcaria crostosa;0;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p10;alga_calcaria_crostosa;0;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p10.5;areia;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p11;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p11.5;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p11.5;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p12;esponja;0;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p12.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p13;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p13;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p13.5;areia;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p14;areia;0;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p14.5;areia;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p15;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p15;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p15.5;zoantideo;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p16;zoantideo;0;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p16.5;areia;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p17;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p17.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p18;alga calcaria crostosa;0;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p17.5;alga_calcaria_crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p18;alga_calcaria_crostosa;0;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p18.5;zoantideo;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p19;zoantideo;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p19.5;areia;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p0;areia;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p0.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p1;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p1.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p2;alga calcaria crostosa;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p2.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p3;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p3.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p4;alga calcaria crostosa;0;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p0.5;alga_calcaria_crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p1;alga_calcaria_crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p1.5;alga_calcaria_crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p2;alga_calcaria_crostosa;0;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p2.5;alga_calcaria_crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p3;alga_calcaria_crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p3.5;alga_calcaria_crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p4;alga_calcaria_crostosa;0;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p4.5;areia;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p5;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p5;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p5.5;areia;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p6;areia;0;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p6.5;zoantideo;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p7;turf;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p7.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p8;alga calcaria crostosa;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p8.5;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p8;alga_calcaria_crostosa;0;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p8.5;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p9;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p9.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p10;alga calcaria crostosa;0;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p9.5;alga_calcaria_crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p10;alga_calcaria_crostosa;0;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p10.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p11;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p11;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p11.5;areia;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p12;alga calcaria crostosa;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p12.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p13;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p13.5;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p12;alga_calcaria_crostosa;0;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p12.5;alga_calcaria_crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p13;alga_calcaria_crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p13.5;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p14;zoantideo;0;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p14.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p15;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p15;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p15.5;areia;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p16;alga calcaria crostosa;0;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p16;alga_calcaria_crostosa;0;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p16.5;turf;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p17;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p17.5;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p17.5;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p18;areia;0;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p18.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p19;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p19;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p19.5;areia;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p0;areia;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p0.5;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p0.5;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p1;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p1.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p2;alga calcaria crostosa;0;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p1.5;alga_calcaria_crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p2;alga_calcaria_crostosa;0;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p2.5;turf;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p3;zoantideo;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p3.5;turf;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p4;zoantideo;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p4.5;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p4.5;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p5.5;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p5.5;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p6;turf;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p6.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p7;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p7.5;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p6.5;alga_calcaria_crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p7;alga_calcaria_crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p7.5;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p8;zoantideo;0;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p8.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p9;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p9.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p10;alga calcaria crostosa;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p10.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p11;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p11.5;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p9;alga_calcaria_crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p9.5;alga_calcaria_crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p10;alga_calcaria_crostosa;0;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p10.5;alga_calcaria_crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p11;alga_calcaria_crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p11.5;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p12;turf;0;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p12.5;turf;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p13;zoantideo;NA;NA
@@ -358,8 +357,8 @@ B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolit
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p17.5;areia;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p18;zoantideo;0;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p18.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p19;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p19.5;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p19;alga_calcaria_crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p19.5;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p0;turf;1;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p0.5;turf;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p1;turf;NA;NA
@@ -378,10 +377,10 @@ B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_s
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p7.5;turf;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p8;macroalga;1;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p8.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p9;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p9;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p9.5;turf;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p10;turf;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p10.5;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p10.5;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p11;turf;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p11.5;turf;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p12;turf;1;NA
@@ -396,7 +395,7 @@ B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_s
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p16.5;turf;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p17;zoantideo;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p17.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p18;alga calcaria crostosa;1;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p18;alga_calcaria_crostosa;1;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p18.5;turf;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p19;turf;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p19.5;esponja;NA;NA
@@ -409,10 +408,10 @@ B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_s
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p3;zoantideo;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p3.5;zoantideo;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p4;zoantideo;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p4.5;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p4.5;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p5;turf;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p5.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p6;alga calcaria crostosa;1;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p6;alga_calcaria_crostosa;1;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p6.5;turf;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p7;turf;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p7.5;zoantideo;NA;NA
@@ -430,13 +429,13 @@ B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_s
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p13.5;turf;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p14;turf;1;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p14.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p15;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p15;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p15.5;turf;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p16;turf;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p16.5;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p16.5;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p17;turf;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p17.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p18;alga calcaria crostosa;2;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p18;alga_calcaria_crostosa;2;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p18.5;turf;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p19;zoantideo;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p19.5;zoantideo;NA;NA
@@ -449,11 +448,11 @@ B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_s
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p3;zoantideo;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p3.5;turf;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p4;turf;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p4.5;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p4.5;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p5;zoantideo;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p5.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p6;alga calcaria crostosa;2;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p6.5;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p6;alga_calcaria_crostosa;2;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p6.5;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p7;zoantideo;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p7.5;turf;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p8;turf;1;NA
@@ -475,21 +474,21 @@ B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_s
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p16;zoantideo;2;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p16.5;zoantideo;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p17;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p17.5;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p17.5;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p18;turf;1;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p18.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p19;alga calcaria crostosa;NA;NA
+B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p19;alga_calcaria_crostosa;NA;NA
 B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p19.5;zoantideo;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p0;madracis;0;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p0.5;madracis;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p1;madracis;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p1.5;esponja;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p2;esponja;1;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p2.5;alga calcaria crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p2.5;alga_calcaria_crostosa;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p3;esponja;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p3.5;alga calcaria crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p3.5;alga_calcaria_crostosa;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p4;turf;1;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p4.5;alga calcaria crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p4.5;alga_calcaria_crostosa;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p5;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p5.5;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p6;macroalga;1;NA
@@ -507,11 +506,11 @@ B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_s
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p12;areia;2;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p12.5;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p13;esponja;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p13.5;alga calcaria crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p13.5;alga_calcaria_crostosa;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p14;turf;2;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p14.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p15;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p15.5;alga calcaria crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p15;alga_calcaria_crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p15.5;alga_calcaria_crostosa;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p16;macroalga;1;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p16.5;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p17;macroalga;NA;NA
@@ -521,31 +520,31 @@ B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_s
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p19;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p19.5;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p0;macroalga;3;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p0.5;briozoario arborescente;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p1;briozoario arborescente;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p0.5;briozoario_arborescente;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p1;briozoario_arborescente;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p1.5;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p2;macroalga;3;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p2.5;briozoario arborescente;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p2.5;briozoario_arborescente;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p3;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p3.5;briozoario arborescente;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p3.5;briozoario_arborescente;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p4;turf;3;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p4.5;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p5.5;briozoario arborescente;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p5.5;briozoario_arborescente;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p6;turf;3;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p6.5;briozoario arborescente;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p6.5;briozoario_arborescente;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p7;esponja;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p7.5;macroalga;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p8;turf;3;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p8.5;briozoario arborescente;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p8.5;briozoario_arborescente;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p9;esponja;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p9.5;alga calcaria crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p9.5;alga_calcaria_crostosa;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p10;turf;3;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p10.5;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p11;macroalga;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p11.5;macroalga;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p12;briozoario arborescente;3;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p12.5;briozoario arborescente;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p12;briozoario_arborescente;3;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p12.5;briozoario_arborescente;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p13;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p13.5;macroalga;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p14;macroalga;3;NA
@@ -558,49 +557,49 @@ B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_s
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p17.5;esponja;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p18;esponja;2;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p18.5;macroalga;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p19;alga calcaria crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p19;alga_calcaria_crostosa;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p19.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p0;alga calcaria crostosa;0;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p0.5;alga calcaria crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p0;alga_calcaria_crostosa;0;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p0.5;alga_calcaria_crostosa;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p1;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p1.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p2;alga calcaria crostosa;2;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p2.5;alga calcaria crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p2;alga_calcaria_crostosa;2;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p2.5;alga_calcaria_crostosa;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p3;aa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p3.5;alga calcaria crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p3.5;alga_calcaria_crostosa;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p4;ascidia;2;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p4.5;macroalga;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p5;macroalga;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p5.5;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p6;esponja;2;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p6.5;alga calcaria crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p6.5;alga_calcaria_crostosa;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p7;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p7.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p8;alga calcaria crostosa;3;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p8.5;alga calcaria crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p8;alga_calcaria_crostosa;3;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p8.5;alga_calcaria_crostosa;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p9;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p9.5;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p10;esponja;3;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p10.5;alga calcaria crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p10.5;alga_calcaria_crostosa;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p11;esponja;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p11.5;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p12;turf;3;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p12.5;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p13;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p13.5;alga calcaria crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p13.5;alga_calcaria_crostosa;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p14;turf;3;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p14.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p15;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p15.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p16;alga calcaria crostosa;2;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p14.5;alga_calcaria_crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p15;alga_calcaria_crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p15.5;alga_calcaria_crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p16;alga_calcaria_crostosa;2;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p16.5;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p17;esponja;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p17.5;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p18;turf;2;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p18.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p19;briozoario incrustante;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p18.5;alga_calcaria_crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p19;briozoario_incrustante;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p19.5;esponja;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p0;alga calcaria crostosa;0;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p0;alga_calcaria_crostosa;0;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p0.5;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p1;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p1.5;turf;NA;NA
@@ -628,7 +627,7 @@ B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decac
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p12.5;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p13;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p13.5;macroalga;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p14;alga calcaria crostosa;0;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p14;alga_calcaria_crostosa;0;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p14.5;macroalga;NA;Dossel > 5cm
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p15;macroalga;NA;Dossel > 5cm
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p15.5;macroalga;NA;Dossel > 5cm
@@ -640,28 +639,28 @@ B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decac
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p18.5;areia;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p19;areia;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p19.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p0;alga calcaria crostosa;0;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p0;alga_calcaria_crostosa;0;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p0.5;areia;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p1;areia;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p1.5;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p2;macroalga;0;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p2.5;alga calcaria crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p2.5;alga_calcaria_crostosa;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p3;macroalga;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p3.5;rocha;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p4;areia;0;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p4.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p5;alga calcaria crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p5;alga_calcaria_crostosa;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p5.5;areia;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p6;macroalga;0;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p6.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p7;alga calcaria crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p6.5;alga_calcaria_crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p7;alga_calcaria_crostosa;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p7.5;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p8;ascidia;1;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p8.5;areia;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p9;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p9.5;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p10;turf;1;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p10.5;alga calcaria crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p10.5;alga_calcaria_crostosa;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p11;macroalga;NA;Dossel > 5cm
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p11.5;areia;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p12;areia;0;NA
@@ -685,25 +684,25 @@ B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decac
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p1;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p1.5;esponja;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p2;esponja;0;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p2.5;alga calcaria crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p2.5;alga_calcaria_crostosa;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p3;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p3.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p4;alga calcaria crostosa;1;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p3.5;alga_calcaria_crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p4;alga_calcaria_crostosa;1;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p4.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p5;alga calcaria crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p5;alga_calcaria_crostosa;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p5.5;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p6;turf;1;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p6.5;alga calcaria crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p6.5;alga_calcaria_crostosa;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p7;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p7.5;esponja;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p8;alga calcaria crostosa;1;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p8;alga_calcaria_crostosa;1;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p8.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p9;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p9.5;alga calcaria crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p9;alga_calcaria_crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p9.5;alga_calcaria_crostosa;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p10;madracis;1;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p10.5;turf;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p11;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p11.5;alga calcaria crostosa;NA;NA
+B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p11.5;alga_calcaria_crostosa;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p12;turf;1;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p12.5;esponja;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p13;turf;NA;NA
@@ -720,726 +719,3 @@ B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decac
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p18.5;areia;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p19;areia;NA;NA
 B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p19.5;areia;NA;NA
-=======
-﻿data_type;site;lat_dd;lon_dd;datum;precision;date;day;month;year;position;habitat;trans_n;temp_c;depth_min;depth_max;visi_vert;visi_hor;point;subs_cover;roughness;obs
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p0;macroalga;1;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p0.5;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p1;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p1.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p2;alga calcaria crostosa;1;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p2.5;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p3;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p3.5;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p4;zoantideo;2;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p4.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p5.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p6;turf;1;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p6.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p7;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p7.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p8;alga calcaria crostosa;1;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p8.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p9;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p9.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p10;zoantideo;2;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p10.5;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p11;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p11.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p12;alga calcaria crostosa;1;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p12.5;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p13;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p13.5;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p14;turf;1;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p14.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p15;briozoario incrustante;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p15.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p16;turf;1;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p16.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p17;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p17.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p18;turf;1;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p18.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p19;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;6;12;8;9;p19.5;gorgonia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p0;alga calcaria crostosa;1;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p0.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p1;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p1.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p2;zoantideo;1;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p2.5;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p3;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p3.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p4;alga calcaria crostosa;2;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p4.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p5.5;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p6;zoantideo;1;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p6.5;macroalga;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p7;macroalga;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p7.5;macroalga;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p8;turf;1;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p8.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p9;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p9.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p10;turf;2;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p10.5;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p11;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p11.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p12;alga calcaria crostosa;2;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p12.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p13;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p13.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p14;macroalga;1;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p14.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p15;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p15.5;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p16;zoantideo;1;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p16.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p17;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p17.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p18;turf;2;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p18.5;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p19;macroalga;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;6;12;8;9;p19.5;macroalga;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p0;turf;2;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p0.5;ascidia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p1;ascidia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p1.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p2;turf;2;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p2.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p3;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p3.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p4;alga calcaria crostosa;2;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p4.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p5.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p6;turf;1;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p6.5;hidrozoa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p7;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p7.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p8;turf;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p8.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p9;hidrozoa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p9.5;gorgonia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p10;turf;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p10.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p11;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p11.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p12;gorgonia;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p12.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p13;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p13.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p14;turf;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p14.5;hidrozoa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p15;gorgonia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p15.5;hidrozoa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p16;hidrozoa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p16.5;macroalga;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p17;macroalga;NA;Dossel > 5cm
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p17.5;macroalga;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p18;macroalga;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p18.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p19;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;3;23.5;6;12;8;9;p19.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p0;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p0.5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p1;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p1.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p2;turf;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p2.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p3;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p3.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p4;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p4.5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p5.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p6;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p6.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p7;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p7.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p8;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p8.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p9;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p9.5;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p10;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p10.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p11;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p11.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p12;areia;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p12.5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p13;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p13.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p14;zoantideo;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p14.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p15;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p15.5;zoantideo;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p16;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p16.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p17;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p17.5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p18;areia;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p18.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p19;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;1;23.5;12;16;8;9;p19.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rocky_shore;2;23.5;12;16;8;9;p0;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p0.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p1;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p1.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p2;areia;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p2.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p3;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p3.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p4;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p4.5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p5.5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p6;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p6.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p7;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p7.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p8;areia;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p8.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p9;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p9.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p10;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p10.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p11;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p11.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p12;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p12.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p13;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p13.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p14;areia;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p14.5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p15;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p15.5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p16;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p16.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p17;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p17.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p18;turf;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p18.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p19;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;2;23.5;12;16;8;9;p19.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p0;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p0.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p1;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p1.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p2;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p2.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p3;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p3.5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p4;areia;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p4.5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p5.5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p6;areia;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p6.5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p7;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p7.5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p8;areia;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p8.5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p9;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p9.5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p10;turf;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p10.5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p11;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p11.5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p12;areia;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p12.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p13;gorgonia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p13.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p14;alga calcaria crostosa;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p14.5;alga calcaria crostosa;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p15;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p15.5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p16;areia;0;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p16.5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p17;gorgonia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p17.5;turf;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p18;areia;1;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p18.5;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p19;areia;NA;NA
-B;DE;-27.27171;-48.36523;WGS84;TOPO;11/03/2020;11;03;2020;Rebio Arvoredo;rodolith_bed;3;23.5;12;16;8;9;p19.5;areia;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p0;areia;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p0.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p1;areia;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p1.5;areia;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p2;zoantideo;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p2.5;areia;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p3;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p3.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p4;esponja;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p4.5;areia;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p5.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p6;alga calcaria crostosa;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p6.5;areia;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p7;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p7.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p8;areia;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p8.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p9;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p9.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p10;alga calcaria crostosa;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p10.5;areia;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p11;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p11.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p12;esponja;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p12.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p13;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p13.5;areia;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p14;areia;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p14.5;areia;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p15;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p15.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p16;zoantideo;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p16.5;areia;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p17;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p17.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p18;alga calcaria crostosa;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p18.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p19;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;1;NA;10;10;5;5;p19.5;areia;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p0;areia;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p0.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p1;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p1.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p2;alga calcaria crostosa;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p2.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p3;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p3.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p4;alga calcaria crostosa;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p4.5;areia;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p5.5;areia;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p6;areia;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p6.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p7;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p7.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p8;alga calcaria crostosa;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p8.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p9;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p9.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p10;alga calcaria crostosa;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p10.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p11;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p11.5;areia;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p12;alga calcaria crostosa;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p12.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p13;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p13.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p14;zoantideo;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p14.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p15;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p15.5;areia;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p16;alga calcaria crostosa;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p16.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p17;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p17.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p18;areia;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p18.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p19;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;2;NA;10;10;5;5;p19.5;areia;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p0;areia;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p0.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p1;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p1.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p2;alga calcaria crostosa;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p2.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p3;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p3.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p4;zoantideo;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p4.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p5.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p6;turf;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p6.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p7;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p7.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p8;zoantideo;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p8.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p9;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p9.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p10;alga calcaria crostosa;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p10.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p11;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p11.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p12;turf;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p12.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p13;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p13.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p14;turf;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p14.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p15;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p15.5;areia;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p16;zoantideo;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p16.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p17;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p17.5;areia;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p18;zoantideo;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p18.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p19;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rodolith_bed;3;NA;10;10;5;5;p19.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p0;turf;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p0.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p1;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p1.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p2;turf;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p2.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p3;macroalga;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p3.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p4;turf;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p4.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p5;areia;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p5.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p6;turf;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p6.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p7;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p7.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p8;macroalga;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p8.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p9;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p9.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p10;turf;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p10.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p11;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p11.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p12;turf;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p12.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p13;macroalga;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p13.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p14;zoantideo;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p14.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p15;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p15.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p16;esponja;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p16.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p17;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p17.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p18;alga calcaria crostosa;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p18.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p19;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;1;NA;6;6;5;5;p19.5;esponja;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p0;zoantideo;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p0.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p1;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p1.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p2;turf;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p2.5;macroalga;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p3;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p3.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p4;zoantideo;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p4.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p5.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p6;alga calcaria crostosa;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p6.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p7;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p7.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p8;turf;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p8.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p9;esponja;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p9.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p10;zoantideo;0;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p10.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p11;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p11.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p12;turf;2;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p12.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p13;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p13.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p14;turf;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p14.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p15;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p15.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p16;turf;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p16.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p17;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p17.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p18;alga calcaria crostosa;2;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p18.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p19;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;2;NA;6;6;5;5;p19.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p0;turf;2;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p0.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p1;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p1.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p2;zoantideo;2;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p2.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p3;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p3.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p4;turf;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p4.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p5.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p6;alga calcaria crostosa;2;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p6.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p7;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p7.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p8;turf;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p8.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p9;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p9.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p10;zoantideo;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p10.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p11;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p11.5;esponja;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p12;turf;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p12.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p13;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p13.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p14;turf;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p14.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p15;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p15.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p16;zoantideo;2;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p16.5;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p17;zoantideo;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p17.5;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p18;turf;1;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p18.5;turf;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p19;alga calcaria crostosa;NA;NA
-B;RN;-27.27823;-48.37542;WGS84;TOPO;06/03/2020;06;03;2020;Rebio Arvoredo;rocky_shore;3;NA;6;6;5;5;p19.5;zoantideo;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p0;madracis;0;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p0.5;madracis;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p1;madracis;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p1.5;esponja;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p2;esponja;1;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p2.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p3;esponja;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p3.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p4;turf;1;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p4.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p5.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p6;macroalga;1;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p6.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p7;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p7.5;macroalga;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p8;areia;1;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p8.5;macroalga;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p9;macroalga;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p9.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p10;turf;1;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p10.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p11;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p11.5;macroalga;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p12;areia;2;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p12.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p13;esponja;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p13.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p14;turf;2;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p14.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p15;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p15.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p16;macroalga;1;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p16.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p17;macroalga;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p17.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p18;turf;1;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p18.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p19;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;1;NA;5;6;4;5;p19.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p0;macroalga;3;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p0.5;briozoario arborescente;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p1;briozoario arborescente;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p1.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p2;macroalga;3;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p2.5;briozoario arborescente;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p3;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p3.5;briozoario arborescente;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p4;turf;3;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p4.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p5.5;briozoario arborescente;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p6;turf;3;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p6.5;briozoario arborescente;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p7;esponja;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p7.5;macroalga;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p8;turf;3;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p8.5;briozoario arborescente;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p9;esponja;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p9.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p10;turf;3;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p10.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p11;macroalga;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p11.5;macroalga;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p12;briozoario arborescente;3;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p12.5;briozoario arborescente;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p13;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p13.5;macroalga;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p14;macroalga;3;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p14.5;macroalga;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p15;esponja;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p15.5;macroalga;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p16;turf;1;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p16.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p17;macroalga;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p17.5;esponja;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p18;esponja;2;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p18.5;macroalga;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p19;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;2;NA;5;6;4;5;p19.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p0;alga calcaria crostosa;0;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p0.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p1;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p1.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p2;alga calcaria crostosa;2;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p2.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p3;aa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p3.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p4;ascidia;2;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p4.5;macroalga;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p5;macroalga;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p5.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p6;esponja;2;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p6.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p7;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p7.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p8;alga calcaria crostosa;3;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p8.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p9;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p9.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p10;esponja;3;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p10.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p11;esponja;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p11.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p12;turf;3;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p12.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p13;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p13.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p14;turf;3;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p14.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p15;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p15.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p16;alga calcaria crostosa;2;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p16.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p17;esponja;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p17.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p18;turf;2;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p18.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p19;briozoario incrustante;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;rocky_shore;3;NA;5;6;4;5;p19.5;esponja;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p0;alga calcaria crostosa;0;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p0.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p1;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p1.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p2;macroalga;1;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p2.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p3;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p3.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p4;areia;0;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p4.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p5.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p6;areia;0;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p6.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p7;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p7.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p8;areia;0;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p8.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p9;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p9.5;aa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p10;turf;1;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p10.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p11;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p11.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p12;macroalga;2;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p12.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p13;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p13.5;macroalga;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p14;alga calcaria crostosa;0;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p14.5;macroalga;NA;Dossel > 5cm
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p15;macroalga;NA;Dossel > 5cm
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p15.5;macroalga;NA;Dossel > 5cm
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p16;areia;0;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p16.5;macroalga;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p17;macroalga;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p17.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p18;areia;0;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p18.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p19;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;1;NA;10;12;4;5;p19.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p0;alga calcaria crostosa;0;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p0.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p1;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p1.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p2;macroalga;0;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p2.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p3;macroalga;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p3.5;rocha;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p4;areia;0;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p4.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p5.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p6;macroalga;0;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p6.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p7;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p7.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p8;ascidia;1;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p8.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p9;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p9.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p10;turf;1;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p10.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p11;macroalga;NA;Dossel > 5cm
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p11.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p12;areia;0;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p12.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p13;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p13.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p14;areia;0;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p14.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p15;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p15.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p16;areia;0;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p16.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p17;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p17.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p18;turf;0;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p18.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p19;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;2;NA;10;12;4;5;p19.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p0;esponja;1;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p0.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p1;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p1.5;esponja;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p2;esponja;0;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p2.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p3;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p3.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p4;alga calcaria crostosa;1;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p4.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p5.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p6;turf;1;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p6.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p7;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p7.5;esponja;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p8;alga calcaria crostosa;1;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p8.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p9;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p9.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p10;madracis;1;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p10.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p11;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p11.5;alga calcaria crostosa;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p12;turf;1;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p12.5;esponja;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p13;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p13.5;ascidia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p14;turf;1;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p14.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p15;ascidia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p15.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p16;turf;1;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p16.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p17;macroalga;NA;Dossel > 5cm
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p17.5;turf;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p18;areia;0;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p18.5;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p19;areia;NA;NA
-B;TS;-27.18098;-48.40996;WGS84;TOPO;17/03/2020;17;03;2020;Rebio Arvoredo;m_decactis_bed;3;NA;10;12;4;5;p19.5;areia;NA;NA
->>>>>>> 80a4a0d291c7dbd10b0fd2e066f15b7370cd9f01

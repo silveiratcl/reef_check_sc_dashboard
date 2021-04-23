@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: "Dados do Reefcheck"
 output: 
@@ -7,7 +6,6 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-library(flexdashboard)
 library(flexdashboard)
 library(readr)
 library(reshape2)
@@ -21,9 +19,9 @@ library(dplyr)
 library(RColorBrewer)
 palette(brewer.pal(8, "Set2"))
 ```
-```{r dataread, eval=FALSE, include=FALSE}
+```{r dataread, include=FALSE}
 
-iscDF<- read.csv("monitoring_rebio_isc_2020.csv", header=T, sep=";", dec=".")
+iscDF<- read.csv("monitoring_rebio_isc_2020.csv", header=T, sep=";", dec=".", na.strings = "NA", stringsAsFactors = T)
 subsDF<- read.csv("monitoring_rebio_subs_2020.csv", header=T, sep=";", dec=".")
 iscDF
 subsDF
@@ -36,7 +34,7 @@ General Information
 Column
 -----------------------------------------------------------------------
 
-### REBIO Arvoredo e Entorno
+### REBIO Arvoredo e Entorno 2020
 
 ```{r map}
 ## get lat lon
@@ -48,7 +46,7 @@ siteCoords = iscDF %>% dplyr::group_by(site)%>%
 siteAbund = iscDF %>%  
   dplyr::group_by(site) %>% 
   dplyr::summarise(sumAbund = sum(abund, na.rm=T),
-  richness = n_distinct(taxon)) #exclude fish trash
+  richness = n_distinct(taxon)) #exclude fishing trash
 
 
 
@@ -71,87 +69,28 @@ leaflet(siteCoords) %>% addTiles() %>%
 
 ```
 
+### taxonomic rank distribution
+
+```{r taxonrank}
+library(worms)
+scNames = unique(iscDF$taxon[iscDF$taxon != "Lixo_de_pesca" & iscDF$taxon !=  "Lixo_comum"] ) #excluding fishing trash
+scNames = scNames[!is.na(scNames)] #insert aphiaID to all species
+
+## get taxon rank from WoRMS
+scNames.rank = wormsbyid(x = scNames, verbose = F)
+
+## summarise the results
+taxranks = as.data.frame(table(scNames.rank$rank))
+
+## make a donut
+p = taxranks %>% plot_ly(labels = ~Var1, values=~Freq) %>% 
+  add_pie(hole=0.6) %>% 
+  layout(title = ~paste0("Total number of Taxa: ", length(scNames))) 
+
+plotly::config(p,displayModeBar = F) 
 
 
-
-
-
-=======
----
-title: "Dados do Reefcheck"
-output: 
-  flexdashboard::flex_dashboard:
-    orientation: rows
----
-
-```{r setup, include=FALSE}
-library(flexdashboard)
-library(flexdashboard)
-library(readr)
-library(reshape2)
-library(leaflet)
-library(ggplot2)
-library(vegan)
-library(plotly)
-library(lubridate)
-library(dplyr)
-
-library(RColorBrewer)
-palette(brewer.pal(8, "Set2"))
-```
-```{r dataread, eval=FALSE, include=FALSE}
-
-iscDF<- read.csv("monitoring_rebio_isc_2020.csv", header=T, sep=";", dec=".")
-subsDF<- read.csv("monitoring_rebio_subs_2020.csv", header=T, sep=";", dec=".")
-iscDF
-subsDF
-
-```
-
-General Information
-======================================================================
-
-Column
------------------------------------------------------------------------
-
-### REBIO Arvoredo e Entorno
-
-```{r map}
-## get lat lon
-siteCoords = iscDF %>% dplyr::group_by(site)%>% 
-  dplyr::summarise(lng = mean(lon_dd, na.rm=T), 
-            lat = mean(lat_dd, na.rm=T))
-
-## get total abund by site
-siteAbund = iscDF %>%  
-  dplyr::group_by(site) %>% 
-  dplyr::summarise(sumAbund = sum(abund, na.rm=T),
-  richness = n_distinct(taxon)) #exclude fish trash
-
-
-
-## add abund and cover to coords
-siteCoords = full_join(siteCoords, siteAbund)
-
-## create a color palette
-pal <- colorFactor(palette = c('#a6cee3','#1f78b4','#b2df8a'),
-                   domain= c('DN', 'RN', 'TS' ))
-
-## make leaflet map
-leaflet(siteCoords) %>% addTiles() %>% 
-  addCircleMarkers(label = ~paste0(site,' - ', ' / N. Taxa: ', richness), 
-                   radius = ~100 * sumAbund/(sumAbund)/4,
-                   color = ~pal(site), 
-                   fillOpacity = 0.8,
-                   stroke = F,
-                   clusterOptions = markerClusterOptions()) %>% 
-  addMiniMap(toggleDisplay = T)
 
 ```
 
 
-
-
-
-
->>>>>>> 80a4a0d291c7dbd10b0fd2e066f15b7370cd9f01
