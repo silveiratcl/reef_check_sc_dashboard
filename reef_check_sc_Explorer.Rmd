@@ -1,5 +1,5 @@
 ---
-title: "Dados do Reefcheck"
+title: "Dados do Reefcheck REBIO e Entorno"
 output: 
   flexdashboard::flex_dashboard:
     orientation: rows
@@ -28,7 +28,7 @@ subsDF
 
 ```
 
-General Information
+Informações Gerais
 ======================================================================
 
 Column
@@ -44,10 +44,10 @@ siteCoords = iscDF %>% dplyr::group_by(site)%>%
 
 ## get total abund by site
 siteAbund = iscDF %>%  
+  filter(taxon != "Lixo_comum" & taxon != "Lixo_de_pesca")%>% #excluding fishing trash
   dplyr::group_by(site) %>% 
   dplyr::summarise(sumAbund = sum(abund, na.rm=T),
-  richness = n_distinct(taxon)) #exclude fishing trash
-
+  richness = n_distinct(taxon)) 
 
 
 ## add abund and cover to coords
@@ -59,10 +59,10 @@ pal <- colorFactor(palette = c('#a6cee3','#1f78b4','#b2df8a'),
 
 ## make leaflet map
 leaflet(siteCoords) %>% addTiles() %>% 
-  addCircleMarkers(label = ~paste0(site,' - ', ' / N. Taxa: ', richness), 
+  addCircleMarkers(label = ~paste0(site,' / N. Taxa: ', richness), 
                    radius = ~100 * sumAbund/(sumAbund)/4,
                    color = ~pal(site), 
-                   fillOpacity = 0.8,
+                   fillOpacity = 0.6,
                    stroke = F,
                    clusterOptions = markerClusterOptions()) %>% 
   addMiniMap(toggleDisplay = T)
@@ -90,6 +90,26 @@ p = taxranks %>% plot_ly(labels = ~Var1, values=~Freq) %>%
 plotly::config(p,displayModeBar = F) 
 
 
+
+```
+
+### Taxa list: number of quadrats where found 
+
+```{r taxalist}
+spRanks = scNames.rank[,c("AphiaID", "rank")]
+
+## add taxon rank to occurrence table
+iscDF = full_join(iscDF, spRanks)
+
+taxaTable = iscDF %>% 
+  dplyr::group_by(AphiaID) %>% dplyr::filter(!is.na(AphiaID)) %>% 
+  dplyr::summarise(taxon = unique(ScientificName_accepted), 
+            rank = unique(rank), 
+            lowtide = sum(strata=="lowtide", na.rm=T), 
+            midtide = sum(strata=="midtide", na.rm=T), 
+            hightide = sum(strata=="hightide", na.rm=T))
+
+knitr::kable(taxaTable)
 
 ```
 
