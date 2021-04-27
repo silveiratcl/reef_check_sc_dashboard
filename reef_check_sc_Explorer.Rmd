@@ -31,8 +31,9 @@ subsDF
 Informações Gerais
 ======================================================================
 
-Column
+Row
 -----------------------------------------------------------------------
+
 
 ### REBIO Arvoredo e Entorno 2020
 
@@ -58,7 +59,8 @@ pal <- colorFactor(palette = c('#a6cee3','#1f78b4','#b2df8a'),
                    domain= c('DN', 'RN', 'TS' ))
 
 ## make leaflet map
-leaflet(siteCoords) %>% addTiles() %>% 
+leaflet(siteCoords) %>% 
+  addTiles() %>% 
   addCircleMarkers(label = ~paste0(site,' / N. Taxa: ', richness), 
                    radius = ~100 * sumAbund/(sumAbund)/4,
                    color = ~pal(site), 
@@ -69,7 +71,7 @@ leaflet(siteCoords) %>% addTiles() %>%
 
 ```
 
-### taxonomic rank distribution
+### Taxonomic rank distribution
 
 ```{r taxonrank}
 library(worms)
@@ -79,7 +81,7 @@ scNames = scNames[!is.na(scNames)] #excluded fishing thrash/thrash
 ## get taxon rank from WoRMS
 scNames.rank = wormsbyid(x = scNames, verbose = F)
 
-## summarise the results
+## summarizes the results
 taxranks = as.data.frame(table(scNames.rank$rank))
 
 ## make a donut
@@ -93,24 +95,54 @@ plotly::config(p,displayModeBar = F)
 
 ```
 
-### Taxa list: number of quadrats where found 
+Row
+-----------------------------------------------------------------------
 
-```{r taxalist}
-spRanks = scNames.rank[,c("AphiaID", "rank")]
+### Number of taxa per site and stratum
 
-## add taxon rank to occurrence table
-iscDF = full_join(iscDF, spRanks)
+```{r taxasite}
+taxaquadrat = iscDF %>% filter(taxon!="Lixo_de_pesca", taxon!="Lixo_comun", abund==0) %>% #on new csv this will not be necessary
+  group_by(site,habitat, trans_n)%>% 
+  dplyr::summarise(taxon_n = n())
 
-taxaTable = iscDF %>% 
-  dplyr::group_by(AphiaID) %>% dplyr::filter(!is.na(AphiaID)) %>% 
-  dplyr::summarise(taxon = unique(ScientificName_accepted), 
-            rank = unique(rank), 
-            lowtide = sum(strata=="lowtide", na.rm=T), 
-            midtide = sum(strata=="midtide", na.rm=T), 
-            hightide = sum(strata=="hightide", na.rm=T))
 
-knitr::kable(taxaTable)
+  taxaquadrat$habitat = factor(taxaquadrat$habitat, levels = c("rocky_shore", "rodolith_bed", "m_decactis_bed"))
+
+pp = ggplot(taxaquadrat, aes( habitat, taxon_n, fill= site))
+pp = pp + geom_boxplot() + ylab("Taxa per transect(n)") + 
+  facet_grid(~site) + 
+  theme_bw(base_size = 9) + theme(legend.position = "none")
+
+
+ggplotly(pp) %>% plotly::config(displayModeBar = F) 
+
 
 ```
 
+
+
+
+
+### Taxa list: number of quadrats where found 
+
+```{r taxalist}
+spRanks = scNames.rank[,c("AphiaID", "rank")] #check zeros in abund
+
+## add taxon rank to occurrence table
+iscDF = full_join(iscDF, spRanks)
+  
+
+taxaTable = iscDF %>% 
+  dplyr::group_by(AphiaID) %>% dplyr::filter(!is.na(AphiaID)) %>% 
+  dplyr::summarise(taxon = unique(taxon), 
+            rank = unique(rank), 
+            rocky_shore = sum(habitat=="rocky_shore", na.rm=T), 
+            rodolith_bed = sum(habitat=="rodolith_bed", na.rm=T), 
+            m_decactis_bed = sum(habitat=="m_decactis_bed", na.rm=T))
+
+knitr::kable(taxaTable)
+
+
+
+```
 
