@@ -45,7 +45,7 @@ siteCoords = iscDF %>% dplyr::group_by(site)%>%
 
 ## get total abund by site
 siteAbund = iscDF %>%  
-  filter(taxon != "Lixo_comum" & taxon != "Lixo_de_pesca" & abund != "0")%>% #excluding fishing trash and abund zero
+  filter(taxon != "Lixo_comum" & taxon != "Lixo_de_pesca" & abund!= "0")%>% #excluding fishing trash and abund zero
   dplyr::group_by(site) %>% 
   dplyr::summarise(sumAbund = sum(abund, na.rm=T),
   richness = n_distinct(taxon)) 
