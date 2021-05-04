@@ -156,7 +156,7 @@ Row
 ### Rocky Shore
 
 
-```{r}
+```{r rarerock}
 ## filter by habitat
 Occurrence.site = iscDF %>% filter(habitat=="rocky_shore", !is.na(AphiaID) & abund!="0")
 
@@ -187,6 +187,72 @@ pp + geom_ribbon(aes(ymin=richness-sd, ymax=richness+sd), alpha=0.3) + geom_line
   theme_bw(base_size = 10) + xlab("Number of samples") + ylab("Accumulated number of Spp")
 
 ```
+### Rodolith bed
 
 
+```{r rarerodo} 
+## filter by habitat
+Occurrence.site = iscDF %>% filter(habitat=="rodolith_bed", !is.na(AphiaID) & abund!="0")
+
+## do it by site
+siteNames = unique(Occurrence.site$site)
+
+## empty DF for results
+sppAccum = data.frame(site = character(),
+                      habitat = character(),
+                      ncuad = numeric(),
+                      richness = numeric(), 
+                      sd = numeric())
+
+for (i in 1:length(siteNames)){
+  ecoMat = dcast(sampleID~AphiaID, data=subset(Occurrence.site, site==siteNames[i]), 
+                 value.var = "AphiaID", length)
+  sppcurve = specaccum(ecoMat[,-1], method = "random")
+  sppAccum = rbind(sppAccum, 
+                   data.frame(site = rep(siteNames[i], length(sppcurve$sites)),
+                              ncuad = sppcurve$sites, 
+                              richness = sppcurve$richness,
+                              sd = sppcurve$sd))
+}
+
+## make the plot
+pp = ggplot(sppAccum, aes(ncuad, richness, colour=site, fill=site))
+pp + geom_ribbon(aes(ymin=richness-sd, ymax=richness+sd), alpha=0.3) + geom_line() + geom_point() + 
+  theme_bw(base_size = 10) + xlab("Number of samples") + ylab("Accumulated number of Spp")
+
+```
+### Madracis decactis bed
+
+
+```{r raredecactis}
+## filter by habitat
+Occurrence.site = iscDF %>% filter(habitat=="m_decactis_bed", !is.na(AphiaID) & abund!="0")
+
+## do it by site
+siteNames = unique(Occurrence.site$site)
+
+## empty DF for results
+sppAccum = data.frame(site = character(),
+                      habitat = character(),
+                      ncuad = numeric(),
+                      richness = numeric(), 
+                      sd = numeric())
+
+for (i in 1:length(siteNames)){
+  ecoMat = dcast(sampleID~AphiaID, data=subset(Occurrence.site, site==siteNames[i]), 
+                 value.var = "AphiaID", length)
+  sppcurve = specaccum(ecoMat[,-1], method = "random")
+  sppAccum = rbind(sppAccum, 
+                   data.frame(site = rep(siteNames[i], length(sppcurve$sites)),
+                              ncuad = sppcurve$sites, 
+                              richness = sppcurve$richness,
+                              sd = sppcurve$sd))
+}
+
+## make the plot
+pp = ggplot(sppAccum, aes(ncuad, richness, colour=site, fill=site))
+pp + geom_ribbon(aes(ymin=richness-sd, ymax=richness+sd), alpha=0.3) + geom_line() + geom_point() + 
+  theme_bw(base_size = 10) + xlab("Number of samples") + ylab("Accumulated number of Spp")
+
+```
 
