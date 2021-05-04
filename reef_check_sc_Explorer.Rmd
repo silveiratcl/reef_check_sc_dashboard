@@ -21,7 +21,7 @@ palette(brewer.pal(8, "Set2"))
 ```
 ```{r dataread, include=FALSE}
 
-iscDF<- read.csv("monitoring_rebio_isc_2020.csv", header=T, sep=";", dec=".", na.strings = "NA", stringsAsFactors = T)
+iscDF<- read.csv("monitoring_rebio_isc_2020.csv", header=T, sep=";", dec=".", na.strings = "NA", stringsAsFactors = T) #check if it's possible to download data from google drive  
 subsDF<- read.csv("monitoring_rebio_subs_2020.csv", header=T, sep=";", dec=".")
 iscDF
 subsDF
