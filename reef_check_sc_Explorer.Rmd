@@ -101,7 +101,7 @@ Row
 ### Number of taxa per site and stratum
 
 ```{r taxasite}
-taxaquadrat = iscDF %>% filter(taxon!="Lixo_de_pesca", taxon!="Lixo_comun", abund==0) %>% #on new csv this will not be necessary
+taxaquadrat = iscDF %>% filter(taxon!="Lixo_de_pesca", taxon!="Lixo_comun", abund==0) %>% # cut the 0 abudna data
   group_by(site,habitat, trans_n)%>% 
   dplyr::summarise(taxon_n = n())
 
@@ -146,7 +146,7 @@ knitr::kable(taxaTable)
 
 ```
 
-Indicators
+Indicadores
 =======================================================
 
 
@@ -187,6 +187,7 @@ pp + geom_ribbon(aes(ymin=richness-sd, ymax=richness+sd), alpha=0.3) + geom_line
   theme_bw(base_size = 10) + xlab("Number of samples") + ylab("Accumulated number of Spp")
 
 ```
+
 ### Rodolith bed
 
 
@@ -221,8 +222,8 @@ pp + geom_ribbon(aes(ymin=richness-sd, ymax=richness+sd), alpha=0.3) + geom_line
   theme_bw(base_size = 10) + xlab("Number of samples") + ylab("Accumulated number of Spp")
 
 ```
-### Madracis decactis bed
 
+### Madracis decactis bed
 
 ```{r raredecactis}
 ## filter by habitat
