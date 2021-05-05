@@ -126,14 +126,14 @@ ggplotly(pp) %>% plotly::config(displayModeBar = F)
 ### Taxa list: number of quadrats where found 
 
 ```{r taxalist}
-spRanks = scNames.rank[,c("AphiaID", "rank")] #check zeros in abund
+spRanks = scNames.rank[,c("AphiaID", "rank")] 
 
 ## add taxon rank to occurrence table
 iscDF = full_join(iscDF, spRanks)
   
 
 taxaTable = iscDF %>% 
-  dplyr::group_by(AphiaID) %>% dplyr::filter(!is.na(AphiaID)) %>% 
+  dplyr::group_by(AphiaID) %>% dplyr::filter(!is.na(AphiaID) & abund!="0") %>%  # zeros taxa out of data frame
   dplyr::summarise(taxon = unique(taxon), 
             rank = unique(rank), 
             rocky_shore = sum(habitat=="rocky_shore", na.rm=T), 
