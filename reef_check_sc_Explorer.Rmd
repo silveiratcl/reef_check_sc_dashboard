@@ -21,8 +21,8 @@ palette(brewer.pal(8, "Set2"))
 ```
 ```{r dataread, include=FALSE}
 
-iscDF<- read.csv("monitoring_rebio_isc_2020.csv", header=T, sep=";", dec=".", na.strings = "NA", stringsAsFactors = T) #check if it's possible to download data from google drive  
-subsDF<- read.csv("monitoring_rebio_subs_2020.csv", header=T, sep=";", dec=".")
+iscDF<- read.csv("monitoring_rebio_ISC_2020_05_06.csv", header=T, sep=";", dec=".", na.strings = "NA", stringsAsFactors = T) #check if it's possible to download data from google drive  
+subsDF<- read.csv("monitoring_rebio_SUBS_2020_05_06.csv", header=T, sep=";", dec=".")
 iscDF
 subsDF
 
@@ -39,14 +39,14 @@ Row
 
 ```{r map}
 ## get lat lon
-siteCoords = iscDF %>% dplyr::group_by(site)%>% 
+siteCoords = iscDF %>% dplyr::group_by(site_code)%>% 
   dplyr::summarise(lng = mean(lon_dd, na.rm=T), 
             lat = mean(lat_dd, na.rm=T))
 
 ## get total abund by site
 siteAbund = iscDF %>%  
   filter(taxon != "Lixo_comum" & taxon != "Lixo_de_pesca" & abund!= "0")%>% #excluding fishing trash and abund zero
-  dplyr::group_by(site) %>% 
+  dplyr::group_by(site_code) %>% 
   dplyr::summarise(sumAbund = sum(abund, na.rm=T),
   richness = n_distinct(taxon)) 
 
@@ -55,15 +55,19 @@ siteAbund = iscDF %>%
 siteCoords = full_join(siteCoords, siteAbund)
 
 ## create a color palette
-pal <- colorFactor(palette = c('#a6cee3','#1f78b4','#b2df8a'),
-                   domain= c('DN', 'RN', 'TS' ))
+pal <- colorFactor(palette = c('#a6cee3','#1f78b4','#b2df8a','#33a02c',
+                               '#fb9a99','#e31a1c','#fdbf6f','#ff7f00',
+                               '#cab2d6','#6a3d9a','#ffff99','#b15928'),
+                              domain= c("AR", "DE","DS","ESTL","ESTO",
+                                        "FA", "NL","RN","SA", "SC", 
+                                        "TS","XV"))
 
 ## make leaflet map
 leaflet(siteCoords) %>% 
   addTiles() %>% 
-  addCircleMarkers(label = ~paste0(site,' / N. Taxa: ', richness), 
+  addCircleMarkers(label = ~paste0(site_code,' / N. Taxa: ', richness), 
                    radius = ~100 * sumAbund/(sumAbund)/4,
-                   color = ~pal(site), 
+                   color = ~pal(site_code), 
                    fillOpacity = 0.6,
                    stroke = F,
                    clusterOptions = markerClusterOptions()) %>% 
@@ -101,8 +105,8 @@ Row
 ### Number of taxa per site and stratum
 
 ```{r taxasite}
-taxaquadrat = iscDF %>% filter(taxon!="Lixo_de_pesca", taxon!="Lixo_comun", abund==0) %>% # cut the 0 abudna data
-  group_by(site,habitat, trans_n)%>% 
+taxaquadrat = iscDF %>% filter(taxon!="Lixo_de_pesca", taxon!="Lixo_comun", abund==0) %>% # cut the 0 abund on data
+  group_by(site_code,habitat, trans_n)%>% 
   dplyr::summarise(taxon_n = n())
 
 
@@ -110,8 +114,8 @@ taxaquadrat = iscDF %>% filter(taxon!="Lixo_de_pesca", taxon!="Lixo_comun", abun
 
 pp = ggplot(taxaquadrat, aes( habitat, taxon_n, fill= habitat))
 pp = pp + geom_boxplot() + ylab("Taxa per transect(n)") + 
-  facet_grid(~site) + 
-  theme_bw(base_size = 9) + theme(legend.position = "none")
+  facet_grid(~site_code) + 
+  theme_bw(base_size = 9) + theme(legend.position = "none") #order plot by latitude
 
 
 ggplotly(pp) %>% plotly::config(displayModeBar = F) 
@@ -161,7 +165,7 @@ Row
 Occurrence.site = iscDF %>% filter(habitat=="rocky_shore", !is.na(AphiaID) & abund!="0")
 
 ## do it by site
-siteNames = unique(Occurrence.site$site)
+siteNames = unique(Occurrence.site$site_code)
 
 ## empty DF for results
 sppAccum = data.frame(site = character(),
@@ -171,9 +175,9 @@ sppAccum = data.frame(site = character(),
                       sd = numeric())
 
 for (i in 1:length(siteNames)){
-  ecoMat = dcast(sampleID~AphiaID, data=subset(Occurrence.site, site==siteNames[i]), 
+  ecoMat = dcast(sampleID~AphiaID, data=subset(Occurrence.site, site_code==siteNames[i]), 
                  value.var = "AphiaID", length)
-  sppcurve = specaccum(ecoMat[,-1], method = "random")
+  sppcurve = specaccum(ecoMat[,-1], method = "rarefaction")
   sppAccum = rbind(sppAccum, 
                    data.frame(site = rep(siteNames[i], length(sppcurve$sites)),
                               ncuad = sppcurve$sites, 
@@ -183,8 +187,10 @@ for (i in 1:length(siteNames)){
 
 ## make the plot
 pp = ggplot(sppAccum, aes(ncuad, richness, colour=site, fill=site))
-pp + geom_ribbon(aes(ymin=richness-sd, ymax=richness+sd), alpha=0.3) + geom_line() + geom_point() + 
-  theme_bw(base_size = 10) + xlab("Number of samples") + ylab("Accumulated number of Spp")
+pp = pp + geom_ribbon(aes(ymin=richness-sd, ymax=richness+sd), alpha=0.3) + geom_line() + geom_point() + 
+  theme_bw(base_size = 10) + xlab("Number of individuals") + ylab("Accumulated number of Species")
+
+ggplotly(pp) %>% plotly::config(displayModeBar = F) 
 
 ```
 
@@ -196,7 +202,7 @@ pp + geom_ribbon(aes(ymin=richness-sd, ymax=richness+sd), alpha=0.3) + geom_line
 Occurrence.site = iscDF %>% filter(habitat=="rodolith_bed", !is.na(AphiaID) & abund!="0")
 
 ## do it by site
-siteNames = unique(Occurrence.site$site)
+siteNames = unique(Occurrence.site$site_code)
 
 ## empty DF for results
 sppAccum = data.frame(site = character(),
@@ -206,9 +212,9 @@ sppAccum = data.frame(site = character(),
                       sd = numeric())
 
 for (i in 1:length(siteNames)){
-  ecoMat = dcast(sampleID~AphiaID, data=subset(Occurrence.site, site==siteNames[i]), 
+  ecoMat = dcast(sampleID~AphiaID, data=subset(Occurrence.site, site_code==siteNames[i]), 
                  value.var = "AphiaID", length)
-  sppcurve = specaccum(ecoMat[,-1], method = "random")
+  sppcurve = specaccum(ecoMat[,-1], method = "rarefaction")
   sppAccum = rbind(sppAccum, 
                    data.frame(site = rep(siteNames[i], length(sppcurve$sites)),
                               ncuad = sppcurve$sites, 
@@ -218,8 +224,10 @@ for (i in 1:length(siteNames)){
 
 ## make the plot
 pp = ggplot(sppAccum, aes(ncuad, richness, colour=site, fill=site))
-pp + geom_ribbon(aes(ymin=richness-sd, ymax=richness+sd), alpha=0.3) + geom_line() + geom_point() + 
-  theme_bw(base_size = 10) + xlab("Number of samples") + ylab("Accumulated number of Spp")
+pp = pp + geom_ribbon(aes(ymin=richness-sd, ymax=richness+sd), alpha=0.3) + geom_line() + geom_point() + 
+  theme_bw(base_size = 10) + xlab("Number of individuas") + ylab("Accumulated number of Species")
+
+ggplotly(pp) %>% plotly::config(displayModeBar = F) 
 
 ```
 
@@ -230,7 +238,7 @@ pp + geom_ribbon(aes(ymin=richness-sd, ymax=richness+sd), alpha=0.3) + geom_line
 Occurrence.site = iscDF %>% filter(habitat=="m_decactis_bed", !is.na(AphiaID) & abund!="0")
 
 ## do it by site
-siteNames = unique(Occurrence.site$site)
+siteNames = unique(Occurrence.site$site_code)
 
 ## empty DF for results
 sppAccum = data.frame(site = character(),
@@ -240,9 +248,9 @@ sppAccum = data.frame(site = character(),
                       sd = numeric())
 
 for (i in 1:length(siteNames)){
-  ecoMat = dcast(sampleID~AphiaID, data=subset(Occurrence.site, site==siteNames[i]), 
+  ecoMat = dcast(sampleID~AphiaID, data=subset(Occurrence.site, site_code==siteNames[i]), 
                  value.var = "AphiaID", length)
-  sppcurve = specaccum(ecoMat[,-1], method = "random")
+  sppcurve = specaccum(ecoMat[,-1], method = "rarefaction")
   sppAccum = rbind(sppAccum, 
                    data.frame(site = rep(siteNames[i], length(sppcurve$sites)),
                               ncuad = sppcurve$sites, 
@@ -252,8 +260,10 @@ for (i in 1:length(siteNames)){
 
 ## make the plot
 pp = ggplot(sppAccum, aes(ncuad, richness, colour=site, fill=site))
-pp + geom_ribbon(aes(ymin=richness-sd, ymax=richness+sd), alpha=0.3) + geom_line() + geom_point() + 
-  theme_bw(base_size = 10) + xlab("Number of samples") + ylab("Accumulated number of Spp")
+pp = pp + geom_ribbon(aes(ymin=richness-sd, ymax=richness+sd), alpha=0.3) + geom_line() + geom_point() + 
+  theme_bw(base_size = 10) + xlab("Number of individuals") + ylab("Accumulated number of Species")
+
+ggplotly(pp) %>% plotly::config(displayModeBar = F) 
 
 ```
 
