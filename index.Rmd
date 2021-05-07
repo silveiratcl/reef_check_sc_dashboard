@@ -21,8 +21,8 @@ palette(brewer.pal(8, "Set2"))
 ```
 ```{r dataread, include=FALSE}
 
-iscDF<- read.csv("monitoring_rebio_ISC_2020_05_06.csv", header=T, sep=";", dec=".", na.strings = "NA", stringsAsFactors = T) #check if it's possible to download data from google drive  
-subsDF<- read.csv("monitoring_rebio_SUBS_2020_05_06.csv", header=T, sep=";", dec=".")
+iscDF<- read.csv("monitoring_rebio_ISC_2020_05_07.csv", header=T, sep=";", dec=".", na.strings = "NA", stringsAsFactors = T) #check if it's possible to download data from google drive  
+subsDF<- read.csv("monitoring_rebio_SUBS_2020_05_07.csv", header=T, sep=";", dec=".")
 iscDF
 subsDF
 
@@ -68,8 +68,8 @@ leaflet(siteCoords) %>%
   addCircleMarkers(label = ~paste0(site_code,' / N. Taxa: ', richness), 
                    radius = ~100 * sumAbund/(sumAbund)/4,
                    color = ~pal(site_code), 
-                   fillOpacity = 0.6,
-                   stroke = F,
+                   fillOpacity = 0.9,
+                   stroke = T,
                    clusterOptions = markerClusterOptions()) %>% 
   addMiniMap(toggleDisplay = T)
 
@@ -99,11 +99,11 @@ plotly::config(p,displayModeBar = F)
 
 ```
 
-Especies and habitats
+Taxon List
 ======================================================================
 
 
-Row {data-height=200}
+Row 
 -----------------------------------------------------------------------
 
 
@@ -129,6 +129,8 @@ knitr::kable(taxaTable)
 
 
 ```
+Taxon number by Substrate Type 
+======================================================================
 
 Row
 -----------------------------------------------------------------------
@@ -144,16 +146,33 @@ taxaquadrat = iscDF %>% filter(taxon!="Lixo_de_pesca", taxon!="Lixo_comun", abun
   taxaquadrat$habitat = factor(taxaquadrat$habitat, levels = c("rocky_shore", "rodolith_bed", "m_decactis_bed"))
 
 pp = ggplot(taxaquadrat, aes( habitat, taxon_n, fill= habitat))#order plot by latitude
-pp = pp + geom_boxplot() + ylab("Taxa per transect(n)") + 
+pp + geom_boxplot() + ylab("Taxa per transect(n)") + 
   facet_grid(~site_code) + 
   theme_bw(base_size = 9) + theme(legend.position = "bottom") + 
   scale_x_discrete(labels=c("RS", "RB", "MD"))
 
 
+```
+
+Species Frequency by Substrate Type 
+======================================================================
+
+### Species frequency
+
+```{r}
+taxafreq = iscDF %>% dplyr::filter(!is.na(AphiaID & abund!="0")) %>% 
+  dplyr::group_by(site_code, habitat, taxon) %>% 
+  dplyr::summarise(sppfreq = n()) %>% 
+  dplyr::arrange(sppfreq) %>% 
+  dplyr::mutate(sppacum = cumsum(sppfreq))
+
+pp = ggplot(taxafreq, aes(taxon, sppfreq, fill=habitat))
+pp = pp + geom_bar(stat="identity") + coord_flip() + facet_grid(~site_code) + 
+  theme_bw(base_size = 9) + xlab("") + ylab("number of transects present")
+
 ggplotly(pp) %>% plotly::config(displayModeBar = F) 
 
 ```
-
 
 
 
