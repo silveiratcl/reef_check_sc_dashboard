@@ -215,6 +215,7 @@ for (i in 1:length(siteNames)){
 }
 
 ##Add custon pallete, same color showed in map
+##change this analysis using INext
 
 
 ## make the plot
