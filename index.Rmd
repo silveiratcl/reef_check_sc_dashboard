@@ -32,7 +32,7 @@ General Information
 ======================================================================
 
 Row
-----------------------------------------------------------------------
+-----------------------------------------------------------------------
 
 
 ### REBIO Arvoredo e Entorno 2020
@@ -215,12 +215,13 @@ for (i in 1:length(siteNames)){
 }
 
 ##Add custon pallete, same color showed in map
+##change this analysis using INext
 
 
 ## make the plot
 pp = ggplot(sppAccum, aes(ncuad, richness, colour=site, fill=site))
 pp = pp + geom_ribbon(aes(ymin=richness-sd, ymax=richness+sd), alpha=0.3) + geom_line() + geom_point() + 
-  theme_bw(base_size = 10) + xlab("Number of individuals") + ylab("Accumulated number of Species")
+  theme_bw(base_size = 10) + xlab("Number of transects") + ylab("Accumulated number of Species")
 
 ggplotly(pp) %>% plotly::config(displayModeBar = F) 
 
@@ -257,7 +258,7 @@ for (i in 1:length(siteNames)){
 ## make the plot
 pp = ggplot(sppAccum, aes(ncuad, richness, colour=site, fill=site))
 pp = pp + geom_ribbon(aes(ymin=richness-sd, ymax=richness+sd), alpha=0.3) + geom_line() + geom_point() + 
-  theme_bw(base_size = 10) + xlab("Number of individuas") + ylab("Accumulated number of Species")
+  theme_bw(base_size = 10) + xlab("Number of transects") + ylab("Accumulated number of Species")
 
 ggplotly(pp) %>% plotly::config(displayModeBar = F) 
 
@@ -293,7 +294,7 @@ for (i in 1:length(siteNames)){
 ## make the plot
 pp = ggplot(sppAccum, aes(ncuad, richness, colour=site, fill=site))
 pp = pp + geom_ribbon(aes(ymin=richness-sd, ymax=richness+sd), alpha=0.3) + geom_line() + geom_point() + 
-  theme_bw(base_size = 10) + xlab("Number of individuals") + ylab("Accumulated number of Species")
+  theme_bw(base_size = 10) + xlab("Number of transects") + ylab("Accumulated number of Species")
 
 ggplotly(pp) %>% plotly::config(displayModeBar = F) 
 
