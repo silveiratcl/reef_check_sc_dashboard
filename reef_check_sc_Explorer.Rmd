@@ -21,10 +21,10 @@ palette(brewer.pal(8, "Set2"))
 ```
 ```{r dataread, include=FALSE}
 
-iscDF<- read.csv("monitoring_rebio_ISC_2020_05_07.csv", header=T, sep=";", dec=".", na.strings = "NA", stringsAsFactors = T) #check if it's possible to download data from google drive  
+iscDF<- read.csv("monitoring_rebio_ISC_2020_05_11.csv", header=T, sep=";", dec=".", na.strings = "NA", stringsAsFactors = T) #check if it's possible to download data from google drive  
 subsDF<- read.csv("monitoring_rebio_SUBS_2020_05_07.csv", header=T, sep=";", dec=".")
-iscDF
-subsDF
+#iscDF
+#subsDF
 
 ```
 
@@ -45,7 +45,7 @@ siteCoords = iscDF %>% dplyr::group_by(site_code)%>%
 
 ## get total abund by site
 siteAbund = iscDF %>%  
-  filter(taxon != "Lixo_comum" & taxon != "Lixo_de_pesca" & abund!= "0")%>% #excluding fishing trash and abund zero
+  filter(taxon != "NA" & abund!= "0")%>% #excluding fishing trash and abund zero
   dplyr::group_by(site_code) %>% 
   dplyr::summarise(sumAbund = sum(abund, na.rm=T),
   richness = n_distinct(taxon)) 
@@ -66,7 +66,7 @@ pal <- colorFactor(palette = c('#e31a1c','#1f78b4','#b2df8a','#33a02c',
 leaflet(siteCoords) %>% 
   addTiles() %>% 
   addCircleMarkers(label = ~paste0(site_code,' / N. Taxa: ', richness), 
-                   radius = ~100 * sumAbund/(sumAbund)/4,
+                   radius = ~100 * (sumAbund/(sumAbund))/4,
                    color = ~pal(site_code), 
                    fillOpacity = 0.9,
                    stroke = T,
@@ -107,7 +107,7 @@ Row
 -----------------------------------------------------------------------
 
 
-### Taxa list: number of quadrats each taxa where found 
+### Taxa list: number of transects each taxa where found 
 
 ```{r taxalist}
 spRanks = scNames.rank[,c("AphiaID", "rank")] 
@@ -138,7 +138,7 @@ Row
 ### Number of taxa per site and stratum
 
 ```{r taxasite}
-taxaquadrat = iscDF %>% filter(taxon!="Lixo_de_pesca", taxon!="Lixo_comun", abund==0) %>% # cut the 0 abund on data
+taxaquadrat = iscDF %>% filter(taxon!="Lixo_de_pesca", taxon!="Lixo_comun", abund!="0") %>% # cut the 0 abund on data
   group_by(site_code,habitat, sampleID)%>% 
   dplyr::summarise(taxon_n = n())
 
@@ -146,11 +146,12 @@ taxaquadrat = iscDF %>% filter(taxon!="Lixo_de_pesca", taxon!="Lixo_comun", abun
   taxaquadrat$habitat = factor(taxaquadrat$habitat, levels = c("rocky_shore", "rodolith_bed", "m_decactis_bed"))
 
 pp = ggplot(taxaquadrat, aes( habitat, taxon_n, fill= habitat))#order plot by latitude
-pp + geom_boxplot() + ylab("Taxa per transect(n)") + 
+pp = pp + geom_boxplot() + ylab("Taxa per transect(n)") + 
   facet_grid(~site_code) + 
   theme_bw(base_size = 9) + theme(legend.position = "bottom") + 
   scale_x_discrete(labels=c("RS", "RB", "MD"))
 
+ggplotly(pp) %>% plotly::config(displayModeBar = F) 
 
 ```
 
@@ -160,7 +161,7 @@ Species Frequency by Substrate Type
 ### Species frequency
 
 ```{r}
-taxafreq = iscDF %>% dplyr::filter(!is.na(AphiaID & abund!="0")) %>% 
+taxafreq = iscDF %>% dplyr::filter(!is.na(AphiaID) & abund!="0" & taxon!="NA") %>% #ok
   dplyr::group_by(site_code, habitat, taxon) %>% 
   dplyr::summarise(sppfreq = n()) %>% 
   dplyr::arrange(sppfreq) %>% 
@@ -206,6 +207,7 @@ sppAccum = data.frame(site = character(),
 for (i in 1:length(siteNames)){
   ecoMat = dcast(sampleID~AphiaID, data=subset(Occurrence.site, site_code==siteNames[i]), 
                  value.var = "AphiaID", length)
+  
   sppcurve = specaccum(ecoMat[,-1], method = "random")
   sppAccum = rbind(sppAccum, 
                    data.frame(site = rep(siteNames[i], length(sppcurve$sites)),
