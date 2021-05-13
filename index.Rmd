@@ -163,13 +163,15 @@ Species Frequency by Substrate Type
 ```{r}
 taxafreq = iscDF %>% dplyr::filter(!is.na(AphiaID) & abund!="0" & taxon!="NA") %>% #ok
   dplyr::group_by(site_code, habitat, taxon) %>% 
-  dplyr::summarise(sppfreq = n()) %>% 
+  dplyr::summarise(sppfreq = n()) %>% #sum abund by species, n returns the group size 
   dplyr::arrange(sppfreq) %>% 
-  dplyr::mutate(sppacum = cumsum(sppfreq))
+  dplyr::mutate(sppacum = cumsum(sppfreq)) %>%
+  dplyr::filter(taxon!="NA") #used this because i don't where come from NAS before
+
 
 pp = ggplot(taxafreq, aes(taxon, sppfreq, fill=habitat))
 pp = pp + geom_bar(stat="identity") + coord_flip() + facet_grid(~site_code) + 
-  theme_bw(base_size = 9) + xlab("") + ylab("number of transects present")
+  theme_bw(base_size = 9) + xlab("") + ylab("number of transects present") # ok no NA'S
 
 ggplotly(pp) %>% plotly::config(displayModeBar = F) 
 
